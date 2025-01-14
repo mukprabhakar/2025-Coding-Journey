@@ -1,6 +1,8 @@
-# 2025-Coding-Journey
+# 2025-Coding-Journey 🚀👨‍💻
 
-Welcome to **2025-Coding-Journey**! This repository is my dedicated space to track and showcase my consistent effort toward improving coding skills by solving **LeetCode's Problem of the Day** and other carefully selected programming challenges. The primary goal is to enhance problem-solving abilities and master Java programming.
+![Coding Journey Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
+Welcome to **2025-Coding-Journey**! This repository is my dedicated space to track and showcase my consistent effort toward improving coding skills by solving **LeetCode's Problem of the Day** and other carefully selected programming challenges. The primary goal is to enhance problem-solving abilities and master Java programming. 💻✨
 
 ---
 
@@ -18,26 +20,26 @@ Welcome to **2025-Coding-Journey**! This repository is my dedicated space to tra
 
 ---
 
-## About the Repository
+## About the Repository 📂
 
-This repository serves as a collection of solutions to daily programming problems from platforms like **LeetCode** and other curated problem sets. Each solution is implemented in **Java** with clean, well-commented, and efficient code. The repository is a testament to my journey toward mastering algorithmic thinking and coding best practices.
+This repository serves as a collection of solutions to daily programming problems from platforms like **LeetCode** and other curated problem sets. Each solution is implemented in **Java** with clean, well-commented, and efficient code. The repository is a testament to my journey toward mastering algorithmic thinking and coding best practices. 🧠
 
 ---
 
-## Goals
+## Goals 🎯
 
 1. Solve the **Problem of the Day** on LeetCode consistently.
 2. Practice other interesting problems to cover a wide range of topics:
-   - Data Structures
-   - Algorithms
-   - Dynamic Programming
-   - Graphs and Trees
-   - String Manipulation
-3. Improve coding speed and accuracy for competitive programming and technical interviews.
+   - Data Structures 📊
+   - Algorithms ⚙️
+   - Dynamic Programming 📈
+   - Graphs and Trees 🌲
+   - String Manipulation ✍️
+3. Improve coding speed and accuracy for competitive programming and technical interviews. 🏆
 
 ---
 
-## Folder Structure
+## Folder Structure 📁
 
 ```
 2025-Coding-Journey/
@@ -62,7 +64,7 @@ This repository serves as a collection of solutions to daily programming problem
 
 ---
 
-## How to Use This Repository
+## How to Use This Repository 🛠️
 
 1. Clone the repository:
    ```bash
@@ -73,11 +75,11 @@ This repository serves as a collection of solutions to daily programming problem
    cd 2025-Coding-Journey/LeetCode
    ```
 3. Run and test the solutions in your local development environment.
-4. Learn from comments and explanations in the code.
+4. Learn from comments and explanations in the code. 📖
 
 ---
 
-## Languages and Tools
+## Languages and Tools 🛠️
 
 - **Java**: The primary programming language used for all solutions.
 - **IDE**: IntelliJ IDEA or Eclipse for development and debugging.
@@ -86,7 +88,7 @@ This repository serves as a collection of solutions to daily programming problem
 
 ---
 
-## Best Quotes for Coders
+## Best Quotes for Coders 💡
 
 ### Inspirational Quotes for Coders
 - "Code is like humor. When you have to explain it, it’s bad." – Cory House
@@ -104,7 +106,7 @@ This repository serves as a collection of solutions to daily programming problem
 
 ---
 
-## Contributing
+## Contributing 🤝
 
 I welcome contributions that can enhance this repository. You can contribute by:
 - Suggesting new problems to solve.
@@ -122,17 +124,17 @@ To contribute:
 
 ---
 
-## Acknowledgments
+## Acknowledgments 🙌
 
 Special thanks to:
 - **LeetCode** for providing challenging problems daily.
 - My mentors, peers, and the programming community for their support.
 
-Feel free to explore, learn, and contribute! Let's grow together on this journey to coding excellence.
+Feel free to explore, learn, and contribute! Let's grow together on this journey to coding excellence. 🌟
 
 ---
 
-## Contact
+## Contact 📞
 
 For queries, feedback, or collaboration opportunities, feel free to reach out:
 - **Name**: Mukesh Pal
