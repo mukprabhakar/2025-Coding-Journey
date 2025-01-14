@@ -140,6 +140,8 @@ For queries, feedback, or collaboration opportunities, feel free to reach out:
 - **Name**: Mukesh Pal
 - **Email**: [mukesh.mmp1234@gmail.com](mailto:mukesh.mmp1234@gmail.com)
 
+![Coding Journey Banner](https://gexton.com/uploads/services_images/2020/full_1583924883_ervhk0AE5LIXl3J_software-01.jpg)
+
 ---
 
 Happy Coding! 🚀
