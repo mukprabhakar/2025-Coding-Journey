@@ -24,17 +24,19 @@ class Solution {
 
         return result;
     }
+}
 
+public class Main {
     public static void main(String[] args) {
         Solution solution = new Solution();
 
-        int[] nums1 = {1, 2, 2, 1, 1, 0};
+        int[] nums1 = { 1, 2, 2, 1, 1, 0 };
         System.out.println(Arrays.toString(solution.applyOperations(nums1))); // Output: [1, 4, 2, 0, 0, 0]
 
-        int[] nums2 = {0, 1};
+        int[] nums2 = { 0, 1 };
         System.out.println(Arrays.toString(solution.applyOperations(nums2))); // Output: [1, 0]
 
-        int[] nums3 = {2, 2, 0, 4, 4, 8};
+        int[] nums3 = { 2, 2, 0, 4, 4, 8 };
         System.out.println(Arrays.toString(solution.applyOperations(nums3))); // Output: [4, 8, 8, 0, 0, 0]
     }
 }
